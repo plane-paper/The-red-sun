@@ -1,6 +1,6 @@
 # The Red Sun
 
-**Before use: Download (git clone or through downloading a zip file) all files in this repository, __and__ install python and requirements.txt**
+**Before use: Download (git clone or through downloading a zip file) all files in this repository, <ins>and</ins> install python and requirements.txt**
 
 Please go to your command prompt, and enter:
 
