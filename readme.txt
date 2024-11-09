@@ -1,14 +1,20 @@
-*Before use: Install python and requirements.txt
+# The Red Sun
+
+**Before use: Download (git clone or through downloading a zip file) all files in this repository, __and__ install python and requirements.txt**
+
+Please go to your command prompt, and enter:
 
 >python3
 
+Install Python as necessary. Then:
+
 >pip3 install -r SomeDisk:/someUser/somedirectory/requirements.txt
 
-*Then run the game, either through command prompt:
+**Then run the game**, either through command prompt:
 
 >python3 SomeDisk:/someUser/somedirectory/game.py
 
-*Or by directly clicking on game.py
+**Or** by directly clicking on game.py in the downloaded files
 
 *Yes this game has a plot. Try and look for it yourself, I'm not gonna say anything.
 
