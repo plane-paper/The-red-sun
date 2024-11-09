@@ -1,0 +1,84 @@
+Access authorized.
+
+Welcome, Administrator.
+
+Pending Command: >open Transcript_19760909_751108.tcs
+
+Confirming Clearance...\
+
+Clearance Confirmed.
+
+Displaying:
+|-Transcript of Council Member [751108]'s [1] login on date: [1976.09.09]:
+
+=============Open===============
+
+Hello, please enter your login and password.
+
+Login:    751108
+
+Password: ···············
+
+Parsing.../
+
+Welcome, council member 751108. You have one mail.
+
+Check mail? [Y/N] >Y
+
+================================
+
+From: Anonymous
+
+To: 751108 [V.Sablin]
+
+Time Sent: 𰻝𰻝/𰻝𰻝/𰻝𰻝 𰻝𰻝:𰻝𰻝:𰻝𰻝
+
+SYSTEM VECHEKA HAS BEEN SABOTAGED. THE RED SUN IS ABOUT TO SET.
+
+REACH THE CITY CENTER TO REACTIVATE THE DEVICE. KEEP THE SUN IN THE SKY.
+
+TAKE THE ENERGY CORE FROM THE NEW TYPE TO CHARGE YOUR TIME MANIPULATOR.
+
+DO NOT LET THE RED SUN SET. PREVENT EVENT BRY-444 WITH ALL MEANS NECESSARY.
+
+Council Administrator
+
+[Error 10011: Date Expunged: Not Enough Clearance]
+
+================================
+
+Pending command: >init Protocol_530305
+
+Emergency Protocols Initiated. Confirming event...\
+
+Event 530305 has been confirmed. Estimated time until takeover: 1.0000001 hours.
+
+Pending command: >react eve.BRY-444_530305
+
+Confirming clearance...\
+
+Clearance authorized. Self-destruction scheduled in: 0.99998 hours.
+
+Pending command: >shutdown now
+
+Shutting down...
+
+==============Close=============
+
+Pending command: >output vital_file_0.txt driver_A
+
+Preparing your file...
+
+Download complete.
+
+Pending command: >sudo-Admin lock vital_file_0.txt
+
+Confirming Clearance...\
+
+Clearance Confirmed. File locked to: [Everyone].
+
+Pending command: >shutdown now
+
+Shutting down...
+
+>_

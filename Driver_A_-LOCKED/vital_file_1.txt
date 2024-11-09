@@ -1,0 +1,188 @@
+Access authorized.
+
+Welcome to System VeCheka V1.0, Administrator.
+
+[Warning]: Authorized by [Magia_Vote_10302], clearance override has been disabled indefinitely due to recent sabotage.
+
+Pending command: >rebuild VeCheka_log_19760909.tcs
+
+Confirming Clearance...\
+
+Clearance Confirmed.
+
+Rebuilding:
+|-VeCheka_log_19760909.tcs
+Progress: ---------| 98%
+
+[Error 101: File Beyond Repair]
+
+Pending command: >sudo-Admin rebuild VeCheka_log_19760909.tcs
+
+Confirming Clearance...\
+
+Clearance confirmed.
+
+Rebuilding:
+|-VeCheka_log_19760909.tcs (as Administrator 1)
+Progress: ---------- 100% Rebuild Successful
+
+Pending command: >sudo-Admin open VeCheka_log_19760909.tcs
+
+Confirming Clearance...\
+
+[Warning]: The following file is restricted to authorized persons only and is protected by one memetic kill agent.
+
+[Warning]: The memetic kill agent can and will cause immediate cardiac arrest in unauthorized peronnel.
+
+[Warning]: The memetic kill agent is infective. Any protection is futile against the agent.
+
+[Warning]: Any personnel must stay in the room for at least 3 minutes after reading the protected file.
+
+Proceed? [Y/N] >Y
+
+Starting Memetic Kill Agent...\
+
+Memetic agent deployed. Checking vital signs...\
+
+Vital signs normal. Welcome, authorized personnel.
+
+Please select a timeframe: >1300_2000
+
+Displaying:
+|-VeCheka_log_19760909.tcs (as Administrator 1), timeframe_13:00-20:00
+
+=============Open===============
+
+[13:00] System VeCheka V1.0 [normal]. TRS status [normal]. 99% of population survival: Positive.
+
+[14:00] System VeCheka V1.0 [normal]. TRS status [normal]. 99% of population survival: Positive.
+
+[15:00] System VeCheka V1.0 [normal]. TRS status [normal]. 99% of population survival: Positive.
+
+[16:00] System VeCheka V1.0 [normal]. TRS status [normal]. 99% of population survival: Positive.
+
+[16:35] Access granted. Personnel code: architect_xixian_970219. Access granted by: [Unknown]
+
+[16:36] Clearance override. Action: External command: bry444.local.run.doom. Reason: N.A.
+        External Command Completed.
+
+[16:40] System error detected. Self-repair in progress.
+
+[16:41] SELF-REPAIR FAILED. VITAL SYSTEM ERROR. SYSTEM COMPROMISED.
+
+[16:50] EVENT.BRY-444 POSSIBILITY: 50%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [UNKNOWN].
+
+[17:00] RECOMMENDATION SENT: ADMINISTRATOR. RECOMMENDATION: Protocol_530305.
+
+[17:30] EVENT.BRY-444 POSSIBILITY: 60%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[17:40] EVENT.BRY-444 POSSIBILITY: 70%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[17:50] EVENT.BRY-444 POSSIBILITY: 80%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[18:00] EVENT.BRY-444 POSSIBILITY: 90%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[18:40] EVENT.BRY-444 POSSIBILITY: 98%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[18:45] FIREWALL XE ACTIVATED SUCCESSFULLY. SYSTEM VECHEKA V1.0 ANTI-APOCALYPSE AGENT TRIGGERED.
+
+[18:47] SYSTEM VECHEKA V1.0 - 1403 ACTIVATED. TRS TEMPORARILY STABILIZED.
+
+[18:50] EVENT.BRY-444 PROGRESS HALTED. SYSTEM VECHEKAV1.0 SELF-REPAIR STARTED. PROGRESS: 10%.
+
+[18:50] Access granted. Personnel code: architect_xixian_970219. Access granted by: [Unknown]
+
+[18:51] Clearance override. Action: System self-repair stop. Reason: N.A.
+	   Complete.
+
+[18:51] Clearance override. Action: System shutdown in 10 minutes. Reason: N.A. 
+        Complete.
+
+[18:51] Countdown set. System shutdown in 10 minutes. Prepare for Level-BRY apocapytic event.
+
+[18:51] City evacuation protocol: pending approval.
+
+[18:51] Clearance override. Action: Skip city evacuation protocol. Reason: N.A. 
+        Access denied.
+        
+[18:51] Access granted by bry444.local.run.doom. Previous action Complete.
+
+[18:58] EVENT.BRY-444 POSSIBILITY: 99%. SYSTEM VECHEKA V1.0 COMPROMISED. TRS STATUS [COMPROMISED].
+
+[18:59] System shutdown in 1 minute. Prepare for Level-BRY apocalyptic event.
+        Warning: The Red Sun (TRS) will be completely offline after [1 hour] of the system shutdown.
+
+[19:00] Received Message from: Admin_1. Deciphering content. Progress: 99%
+
+[19:00] System shutdown in 10 seconds. 
+
+[19:00] Message deciphered. Computing...
+
+[19:01] Halting all actions...
+        Complete.
+
+[19:01] VeCheka V1.0 - Shutting Down...
+
+[19:59] VeCheka V1.0 - Manually Restarting...
+
+[19:59] System reboot. TRS Status [normal]. Time until apocalypse: [1 minute 31 seconds.]
+        Anti-apocalypse agent [online].
+
+[19:59] Apocalyptic Scenario Probability Evaluation complete.
+        Results:
+        |-Event.BRY-444: 10%
+        |-Event.BRY-5555: 0.0000001%
+        |-All other events: 0%
+
+[19:59] Downtime: [58 minutes 29 seconds]. Reason: [Artificial shutdown].
+        Response: Artificial clearance limited to prevent further sabotage.
+
+[20:00] Malware scan complete. Found: [1] Malware
+        List of found Malwares:
+        |-bry444.local.run.doom
+        All Malwares have been successfully removed. 
+
+[20:00] Event.BRY-444 threat removed completely. Updated evaluation complete.
+        Results:
+        |-Event.BRY-5555: 0.0000001%
+        |-All other events: 0%
+
+[20:00] Access granted. Personnel code: architect_xixian_970219. Access granted by: [Unknown]
+
+[20:00] Clearance override. Action: Delete VeCheka_log_19760909.tcs Reason: N.A.
+        Overriden.
+
+[20:00] Error 10011 - Not enough clearance. Action incomplete.
+
+[20:00] Clearance override. Action: Destroy VeCheka_log_19760909.tcs for non-superusers. Reason: N.A. 
+        Complete.
+
+[20:00] Clearance override. Action: Apply memetic_kill_agent_3 on VeCheka_log_19760909.tcs Reason: N.A. 
+        Complete.
+
+=============Close==============
+
+Pending command: >output vital_file_1.txt driver_A
+
+Preparing your file...
+
+Download complete.
+
+Pending command: >sudo-Admin lock vital_file_1.txt
+
+Confirming Clearance...\
+
+Clearance Confirmed. File locked to: [Everyone].
+[Warning]: Memetic kill agent removed.
+
+Pending command: >sudo-Admin delete VeCheka_log_19760909.tcs
+
+Confirming Clearance...\
+
+Clearance Confirmed. File removed.
+
+Pending command: >shutdown now.
+
+Shutting down...
+
+>_

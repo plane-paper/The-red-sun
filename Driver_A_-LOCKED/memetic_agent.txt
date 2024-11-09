@@ -1,0 +1,70 @@
+Access authorized.
+
+Welcome, Administrator.
+
+Pending command: >lib memetics
+
+Confirming Clearance...\
+
+Clearance confirmed.
+
+Please choose the content to display:
+Memetics:
+|-[I]ntroduction
+|-[V]irality and Self-intepretation
+|-[M]emetic Agents
+|-[A]mnestic Procedures
+> V
+
+Displaying:
+|-Virality and Self-interpretation -- Memetics
+
+=============Open===============
+
+File 0x77f7299c3
+Memetic information is, simply put, information that facilitates a specific form of comprehension of itself.
+An interpretation of memetic information would do three major things to the victim of said interpretation:
+1. The memetic information would force its own meaning into the recognition of the victim, causing a response.
+2. The memetic information would encourage the victim to spread the information.
+3. The victim would be unable to forget the information.
+These three attributes distinguishes memetic information from normal information. 
+Memetic information could be used to achieve multiple purposes. For easier understanding, imagine if one learns about their spouse 
+cheating on them. This would immediately force them into the emotion of anger, hence forcing its meaning onto the victim, and force 
+the victim to take certain actions; in this case, grief, seek revenge, maintain justice, etc. Moreover, it would be basically impossible 
+to ask the victim to forget such an event due to the trauma it brings. Hence, such an information is memetic. Other examples of memetic 
+information include religion, language, certain inside jokes that reference other events, etc.
+Memetic information tend to spread because it benefits the victim. For example, in the aforementioned example, the victim would intentionally
+spread the information to gain understanding and compassion from the general public. In the example of language, as the information spread,
+victims can communicate much more effectively and fluently.
+Finally, memetic information may not necessarily only cause an emotional response. For example, in the aforementioned example, the victim
+would likely take physical actions in response to the drastic sadness and disappointment felt by them. Such a response could be stimulated
+directly by a memetic agent, which/who would greatly influence the targets' mental state by exposing them to selected memetic information.
+For more information, refer to the section discussing memetic agents.
+
+=============Close==============
+
+Please choose the content to display:
+Memetics:
+|-[I]ntroduction
+|-[V]irality and Self-intepretation
+|-[M]emetic Agents
+|-[A]mnestic Procedures
+> ^C
+
+Pending command: >output memetic_agent.txt driver_A
+
+Preparing your file...
+
+Download complete.
+
+Pending command: >sudo-Admin lock memetic_agent.txt
+
+Confirming Clearance...\
+
+Clearance Confirmed. File locked to: [Everyone].
+
+Pending command: >shutdown now
+
+Shutting down...
+
+>_
