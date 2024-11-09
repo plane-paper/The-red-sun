@@ -1,5 +1,7 @@
 # The Red Sun
 
+## Installation & User Manual
+
 **Before use: Download (git clone or through downloading a zip file) all files in this repository, <ins>and</ins> install python and requirements.txt**
 
 Please go to your command prompt, and enter:
@@ -26,3 +28,17 @@ Install Python as necessary. Then:
 		the FPS in order to have a better experience.
 
 [Warning]: Some violence could be seen in the game.
+
+## Game Preview
+
+### **Title Screen**
+
+![Title Screen](./readme-assets/pic07.jpg "Title Screen")
+
+### Sample Gameplay
+
+![Sample Gameplay 1](./readme-assets/pic08.jpg "Sample Gameplay 1")
+
+![Sample Gameplay 2](./readme-assets/pic09.jpg "Sample Gameplay 2")
+
+![Sample Gameplay 3](./readme-assets/pic10.jpg "Sample Gameplay 3")
