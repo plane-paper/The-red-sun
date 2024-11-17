@@ -29,6 +29,23 @@ Install Python as necessary. Then:
 
 [Warning]: Some violence could be seen in the game.
 
+## Troubleshooting
+Ensure you are running the game through:
+>python3 Disk:/User/directory/game.py
+
+Then, assess the error message. There could be countless, here are a few common ones:
+
+### Function/File missing/not found
+You are missing a file that contains a vital function from the game. Ensure that **all files from the repository** is downloaded in the same directory and **unzipped**.
+
+### PyGame/Other library is not defined (in line 1-10)
+Pygame or the library in question is not installed properly. This could be caused by several issues:
+- Improper pip installation. Run the pip install command above again and try again.
+- PATH issues. Ensure the path that pip is installed in is included in your computer's environment variables. Access your environment variables in the control panel.
+
+### Specific line issues
+This may be an issue specific to your runtime environment. Email r38su@uwaterloo.ca with your issue.
+
 ## Game Preview
 
 ### **Title Screen**
