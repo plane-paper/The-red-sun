@@ -39,8 +39,11 @@ Then, assess the error message. There could be countless, here are a few common 
 You are missing a file that contains a vital function from the game. Ensure that **all files from the repository** is downloaded in the same directory and **unzipped**.
 
 ### PyGame/Other library is not defined (in line 1-10)
-Pygame or the library in question is not installed properly. This could be caused by several issues:
-- Improper pip installation. Run the pip install command above again and try again.
+Pygame or the library in question is not installed properly. Several issues could cause this:
+- Improper pip installation. Run:
+>pip install libraryName
+
+In your command prompt, then try again
 - PATH issues. Ensure the path that pip is installed in is included in your computer's environment variables. Access your environment variables in the control panel.
 
 ### Specific line issues
